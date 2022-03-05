@@ -13,7 +13,7 @@ public class SpringBootLog4jApplication {
 	
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootLog4jApplication.class, args);
-		int i = 10;
+		int i = 20;
 		
 		
 		
